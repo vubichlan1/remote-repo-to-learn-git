@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 hehehe
-<<<<<<< HEAD
 lan hehehec
 cxzczxc
 
 after change commit
-=======
-lan hehehe
->>>>>>> d99220ea9c1094de0c12f12611f80c6300d683cd
-=======
-hehehe
->>>>>>> parent of d99220e (commit message)
+commit lan 2
+heheh
